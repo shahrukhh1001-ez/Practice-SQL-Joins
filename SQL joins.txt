@@ -1,0 +1,35 @@
+### SQL Practice Questions
+
+ 
+
+ Display all records from the `Food_Orders` table.
+
+ 
+
+ Display `Item_Name`, `Category`, and `Price` from the `Items` table.
+
+ 
+
+. Display `Order_ID`, `Customer_Name`, `Item_Name`, `Price`, and `Quantity` using `INNER JOIN`.
+
+ 
+
+Display customers who ordered Pizza.
+
+Display customers who ordered items with a price greater than 150.
+
+Display orders where the quantity is greater than 1.
+
+Display Customer_Name, Item_Name, and Price for orders where the category is 'Fast Food'.
+
+Display customers who ordered Biryani and whose quantity is 2 or more.
+
+Display all orders where the item price is between 100 and 200.
+
+Display orders placed by customers whose name starts with 'A'.
+
+Display Customer_Name, Item_Name, and Quantity for orders placed after '2026-09-21'.
+
+Display orders where the item category is 'Chinese' and quantity is greater than 1.
+
+Display Order_ID, Customer_Name, Item_Name, and Price for items whose price is less than 200.
